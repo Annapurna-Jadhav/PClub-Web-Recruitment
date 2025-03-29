@@ -31,7 +31,7 @@ Please refer to the [Tasks.md](./Tasks.md) file for detailed information about e
    - Screenshots demonstrating the functionality
    - Setup instructions in README.md
    - A 5-minute video demonstrating your features (Mandatory)
-   - Link to your deployed example (e.g., GitHub Pages link)
+   - Deployed link (e.g., GitHub Pages, Netlify, Vercel) with live demo of your implementation
 
 4. Submit your repository link through the provided form [here]
 
