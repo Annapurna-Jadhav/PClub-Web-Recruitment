@@ -20,9 +20,9 @@
 
 ### Sample References
 
-1. unsplash.com
-2. 500px.com
-3. behance.net
+1. [Unsplash](https://unsplash.com)
+2. [500px](https://500px.com)
+3. [Behance](https://behance.net)
 
 **Note**: These are reference examples only. Feel free to innovate and create your unique design.
 
