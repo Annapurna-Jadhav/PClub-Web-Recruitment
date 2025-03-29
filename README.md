@@ -1,4 +1,4 @@
-# Pclub Web Development Recruitment 2025
+# PClub Web Development Recruitment 2025
 
 Welcome to the Photography Club's Web Development Recruitment! This repository contains the tasks for our web development recruitment process.
 
@@ -62,6 +62,8 @@ For detailed information about each task, please refer to the [Tasks.md](./Tasks
 For any queries or concerns, please reach out to:
 * Annapurna Jadhav (+91 7676796495)
 
-###Good luck with your submission!
+---
+
+**Best of luck with your submission!**
 
 
