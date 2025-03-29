@@ -64,6 +64,6 @@ For any queries or concerns, please reach out to:
 
 ---
 
-**Best of luck with your submission!**
+## Best of luck with your submission!
 
 
