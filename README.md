@@ -19,12 +19,12 @@ Create a responsive landing page featuring a photo gallery grid with filtering c
 ### [Task 2: Interactive Flip Cards](./Tasks.md#task-2-create-a-grid-of-flip-cards-with-photo-stories-and-interactive-features)
 Develop a grid of flip cards with photo stories and interactive features.
 
-For detailed information about each task, please refer to the [Tasks.md](./Tasks.md) file.
+Please refer to the [Tasks.md](./Tasks.md) file for detailed information about each task.
 
 ## Submission Guidelines
 
 1. Create a private GitHub repository for your submission in the format: `Pclub_Web_Rec25_Roll-No` (Example: `Pclub_Web_Rec25_241EC154`)
-2. Add both [Annapurna_Jadhav](https://github.com/Annapurna_Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
+2. Add both [Annapurna-Jadhav](https://github.com/Annapurna-Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
 3. Include the following in your repository:
    - Complete implementation of the chosen task
    - A detailed README.md explaining your approach (Mandatory)
