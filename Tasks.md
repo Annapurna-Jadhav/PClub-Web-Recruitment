@@ -24,6 +24,7 @@
 2. [500px](https://500px.com)
 3. [Behance](https://behance.net)
 4. [Image Gallery Layout Examples](https://codepen.io/tag/image-gallery)
+5. [Pinterest Grid Layout](https://www.pinterest.com)
 
 **Note**: These are reference examples only. Feel free to innovate and create your unique design.
 
@@ -59,7 +60,8 @@
 
 ### Sample References
 
-1. [Photo Story Examples](https://www.behance.net/search?content=projects&search=photo%20story)
+1. [flip gallery](https://razorpay.com/partners/)
+2. [CSS Flip Card Examples](https://codepen.io/tag/flip-card)
 
 **Note**: These are reference examples only. Feel free to innovate and create your unique design.
 

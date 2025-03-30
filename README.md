@@ -7,7 +7,7 @@ Welcome to the Photography Club's Web Development Recruitment! This repository c
 
 ## Overview
 
-This recruitment process consists of two tasks designed to evaluate your web development skills and creativity. Each task focuses on different aspects of frontend development, from responsive design to interactive features.
+This recruitment process consists of two frontend development tasks designed to evaluate your web development skills and creativity. Each task focuses on different aspects of frontend development, from responsive design to interactive features.
 
 **Note**: While you can attempt both tasks, we recommend completing one task thoroughly before moving on to the next.
 
@@ -19,12 +19,12 @@ Create a responsive landing page featuring a photo gallery grid with filtering c
 ### [Task 2: Interactive Flip Cards](./Tasks.md#task-2-create-a-grid-of-flip-cards-with-photo-stories-and-interactive-features)
 Develop a grid of flip cards with photo stories and interactive features.
 
-Please refer to the [Tasks.md](./Tasks.md) file for detailed information about each task.
+For detailed information about each task, please refer to the [Tasks.md](./Tasks.md) file.
 
 ## Submission Guidelines
 
 1. Create a private GitHub repository for your submission in the format: `Pclub_Web_Rec25_Roll-No` (Example: `Pclub_Web_Rec25_241EC154`)
-2. Add both [Annapurna-Jadhav](https://github.com/Annapurna-Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
+2. Add both [Annapurna_Jadhav](https://github.com/Annapurna_Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
 3. Include the following in your repository:
    - Complete implementation of the chosen task
    - A detailed README.md explaining your approach (Mandatory)
@@ -64,6 +64,6 @@ For any queries or concerns, please reach out to:
 
 ---
 
-## Best of luck with your submission!
+**Best of luck with your submission!**
 
 
