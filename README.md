@@ -3,7 +3,7 @@
 Welcome to the Photography Club's Web Development Recruitment! This repository contains the tasks for our web development recruitment process.
 
 ## Important Date
-* Submission Deadline: **April 4th, 2025, 11:59 PM**
+* Submission Deadline: **April 4th, 2025, 08:00 PM**
 
 ## Overview
 
