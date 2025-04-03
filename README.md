@@ -4,6 +4,7 @@ Welcome to the Photography Club's Web Development Recruitment! This repository c
 
 ## Important Date
 * Submission Deadline: **April 4th, 2025, 08:00 PM**
+* Submission Link: **https://forms.gle/LQFRpz93nPTnsboQ9**
 
 ## Overview
 
@@ -33,7 +34,7 @@ For detailed information about each task, please refer to the [Tasks.md](./Tasks
    - A 5-minute video demonstrating your features (Mandatory)
    - Deployed link (e.g., GitHub Pages, Netlify, Vercel) with live demo of your implementation
 
-4. Submit your repository link through the provided form [here]
+4. Submit your repository link through the provided form [here](https://forms.gle/LQFRpz93nPTnsboQ9)
 
 ## Evaluation Criteria
 
