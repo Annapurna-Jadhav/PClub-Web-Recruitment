@@ -24,7 +24,7 @@ For detailed information about each task, please refer to the [Tasks.md](./Tasks
 ## Submission Guidelines
 
 1. Create a private GitHub repository for your submission in the format: `Pclub_Web_Rec25_Roll-No` (Example: `Pclub_Web_Rec25_241EC154`)
-2. Add both [Annapurna_Jadhav](https://github.com/Annapurna_Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
+2. Add both [Annapurna_Jadhav](https://github.com/Annapurna-Jadhav) and [satpinipe](https://github.com/satpinipe) as collaborators to your repository
 3. Include the following in your repository:
    - Complete implementation of the chosen task
    - A detailed README.md explaining your approach (Mandatory)
